@@ -1,0 +1,12 @@
+.hover_cart_btn_1:hover{
+    background-color: #fdd252;
+}
+.hover_cart_btn_2:hover{
+    /* background-color: #0d6efd; */
+    background: transparent;
+    color: black;
+    /* outline-color: black; */
+    border: 1px solid black;
+    border-radius: 0 ;
+}
+

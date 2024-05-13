@@ -1,0 +1,55 @@
+/* This is a general css, if imported at any one components, will be applied to all the components */
+
+/* img{
+    object-fit: contain;
+} */
+
+
+/* .carousel-inner{
+    max-height: 1000px;
+} */
+
+
+.card img{
+   /* max-width: 300px; */
+    height: 200px; 
+    object-fit: contain;
+}
+
+.card-img img{
+    /* height: 300px;
+    object-fit: contain; */
+}
+
+*{
+         padding: 0;
+         margin: 0;
+         box-sizing: border-box;
+     }
+
+   
+
+     @media (width<=1200px){
+        html{
+            font-size: 80.5%;
+         }
+     }
+
+     @media (width<=768px){
+        html{
+            font-size: 80.5%;
+         }
+     }
+
+     @media (width<=500px){
+        html{
+            font-size: 80.5%;
+         }
+     }
+     @media (width<=350px){
+        html{
+            font-size: 40.5%;
+         }
+     }
+
+
